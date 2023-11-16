@@ -7,4 +7,4 @@ This aplication will allow clients to understand about social media marketing an
  
  
   link to my deployed application:
-  <a href=" https://jmshultz.github.io/Homework1/">Horiseon web application</a>
+  <a href=" https://jmshultz.github.io/Homework1/" target="_blank">Horiseon web application</a>
