@@ -5,6 +5,6 @@ This aplication will allow clients to understand about social media marketing an
    <img src="./assets/images/digital-marketing-meeting.jpg">
 
  
-  <ul>  
+ 
   link to my deployed application:
-  <a href=" https://jmshultz.github.io/Homework1/">Horiseon web application</a><ul>
+  <a href=" https://jmshultz.github.io/Homework1/">Horiseon web application</a>
