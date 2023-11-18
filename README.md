@@ -8,5 +8,5 @@ This aplication will allow clients to understand about social media marketing an
  
   link to my deployed application:
   <a href=" https://jmshultz.github.io/Homework1/" target="_blank">Horiseon web application</a>
-
+[Link text](https://jmshultz.github.io/Homework1/)
   I used source code from github in my index.html and style.css.
